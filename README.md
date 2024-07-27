@@ -9,7 +9,7 @@ Este é um projeto de exemplo que demonstra como criar rotas protegidas usando N
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/O-Farias/rota-protegida
+   git clone https://github.com/O-Farias/routes-JWT
    cd rota-protegida
    ```
 
